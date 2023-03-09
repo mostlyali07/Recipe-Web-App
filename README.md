@@ -4,7 +4,6 @@ This is a web application that allows users to search for, save and share their 
 
 - [Recipe Web App](#Recipe-Web-App)
   - [Table of Contents](#table-of-contents)
-  - [Description](#description)
   - [Features](#features)
   - [Installation](#installation)
   - [Usage](#usage)
