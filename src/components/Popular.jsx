@@ -84,7 +84,7 @@ p{
     height: 40%;
     display: flex;
     justify-content: center;
-    align-items: center;F
+    align-items: center;    
 }
 `
 
@@ -96,4 +96,4 @@ height: 100%;
 background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0,0.5));
 `
 
-export default Popular
+export default Popular;
